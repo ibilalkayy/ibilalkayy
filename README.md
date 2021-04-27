@@ -1,16 +1,15 @@
-### Hi there, I'm Jesse - aka [ibilalkayy][website] 👋
+### Hi there, I'm Jesse - aka [ibilalkayy](https://www.linkedin.com/in/ibilalkayy/) 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ibilalkayy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ibilalkayy)
-
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Coding Vlogger, Blogger, Developer, and Affiliate Marketer!!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... YouTube & Medium
+- 🌱 I’m currently learning ... Golang & JavaScript
+- 👯 I’m looking to collaborate on ... Golang & JavaScript 
+- 🤔 I’m looking for help with ... Golang & JavaScript
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... [YouTube](https://www.youtube.com/channel/UCBLTfRg0Rgm4FtXkvql7DRQ)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I don't know
+
