@@ -26,3 +26,15 @@ Here are some ideas to get you started:
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Backup and Monitoring Software](https://www.youtube.com/watch?v=CZcYtLh-ZUw&t=1s)
+- [Banking Management Software](https://www.youtube.com/watch?v=xFWc21VSHps&list=PLptbpfKzsc3DnWWGdspRR36FQw3Do_UOC)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCBLTfRg0Rgm4FtXkvql7DRQ)
+
