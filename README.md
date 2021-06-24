@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... YouTube & Medium
+- 🔭 I’m currently working on ... YouTube & Quora
 - 🌱 I’m currently learning ... Golang & JavaScript
 - 👯 I’m looking to collaborate on ... Golang & JavaScript 
 - 🤔 I’m looking for help with ... Golang & JavaScript
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="ibilalkayy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCBLTfRg0Rgm4FtXkvql7DRQ)
 [<img align="left" alt="ibilalkayy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ibilalkayy/)
-[<img align="left" alt="ibilalkayy | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://ibilalkayy.medium.com/)
+[<img align="left" alt="ibilalkayy | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />](https://www.quora.com/profile/Bilal-Khan-3930/)
 [<img align="left" alt="ibilalkayy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ibilalkayy)
 
 <br />
