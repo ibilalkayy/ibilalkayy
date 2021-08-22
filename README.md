@@ -1,13 +1,13 @@
 ### Hi there, I'm Bilal - aka [ibilalkayy](https://www.linkedin.com/in/ibilalkayy/) 👋
 
-## I'm a Coding Vlogger, Blogger, Developer, and Affiliate Marketer!!
+## I'm a Self Taught Software Developer & Content Creator
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... YouTube & Quora
-- 🌱 I’m currently learning ... Golang & JavaScript
-- 👯 I’m looking to collaborate on ... Golang & JavaScript 
-- 🤔 I’m looking for help with ... Golang & JavaScript
+- 🌱 I’m currently learning ... Golang & TypeScript
+- 👯 I’m looking to collaborate on ... Golang & TypeScript 
+- 🤔 I’m looking for help with ... Golang & TypeScript
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I don't know
@@ -23,9 +23,12 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
+[<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />]
+[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 
 ---
 
