@@ -1,4 +1,4 @@
-### Hi there, I'm Bilal - aka [ibilalkayy](https://www.linkedin.com/in/ibilalkayy/) 👋
+### Hi there, I'm Bilal - aka [ibilalkayy](http://ibilalkayy.herokuapp.com/) 👋
 
 ## I'm a Self Taught Software Developer & Content Creator
 
