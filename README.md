@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... YouTube & Stackoverflow
+- 🔭 I’m currently working on ... YouTube, Golang & Kubernetes
 - 🌱 I’m currently learning ... Golang & Kubernetes
 - 👯 I’m looking to collaborate on ... Golang & Kubernetes
 - 🤔 I’m looking for help with ... Golang & Kubernetes
