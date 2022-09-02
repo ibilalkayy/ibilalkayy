@@ -1,13 +1,13 @@
-### Hi there, I'm Bilal - aka [ibilalkayy](http://ibilalkayy.herokuapp.com/) 👋
+### Hi there, I'm Bilal - aka [ibilalkayy](https://ibilalkayy.github.io/digital-resume/) 👋
 
-## I'm a Self Taught Software Developer & Content Creator
+## I'm a College Dropout, Self Taught DevOps Guy & a Content Creator
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... YouTube, Golang & Kubernetes
-- 🌱 I’m currently learning ... Golang & Kubernetes
-- 👯 I’m looking to collaborate on ... Golang & Kubernetes
-- 🤔 I’m looking for help with ... Golang & Kubernetes
+- 🔭 I’m currently working on ... YouTube, Hashnode, Golang, Docker & Kubernetes
+- 🌱 I’m currently learning ... Golang, Docker & Kubernetes
+- 👯 I’m looking to collaborate on ... Golang, Docker & Kubernetes
+- 🤔 I’m looking for help with ... Golang, Docker & Kubernetes
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I don't know
@@ -23,11 +23,14 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 [<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />]
+[<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />]
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />]
 
 ---
 
@@ -40,3 +43,12 @@ Here are some ideas to get you started:
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCBLTfRg0Rgm4FtXkvql7DRQ)
 
+
+### 📺 Latest Hashnode Blogs
+
+<!-- HASHNODE:START -->
+- [Create a Golang Web App without using any Framework](https://ibilalkayy.hashnode.dev/create-a-golang-web-app-without-using-any-framework)
+- [Define Cobra library and make an application from it](https://ibilalkayy.hashnode.dev/define-cobra-library-and-make-an-application-from-it)
+<!-- HASHNODE:END -->
+
+➡️ [more blogs...](https://ibilalkayy.hashnode.dev/)
