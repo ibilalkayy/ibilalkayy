@@ -2,7 +2,9 @@
 
 ## I'm a College Dropout, Self Taught DevOps Guy & a Content Creator
 
-Here are some ideas to get you started:
+![let's connect](https://user-images.githubusercontent.com/64713734/188162433-f495324a-4f90-412d-b94b-514dda33cff9.png)
+
+Here are some points about myself:
 
 - 🔭 I’m currently working on ... YouTube, Hashnode, Golang, Docker & Kubernetes
 - 🌱 I’m currently learning ... Golang, Docker & Kubernetes
