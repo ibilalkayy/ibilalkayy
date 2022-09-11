@@ -17,6 +17,7 @@ Here are some points about myself:
 ### Connect with me:
 
 [<img align="left" alt="ibilalkayy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCBLTfRg0Rgm4FtXkvql7DRQ)
+[<img align="left" alt="ibilalkayy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />](https://ibilalkayy.hashnode.dev/)
 [<img align="left" alt="ibilalkayy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ibilalkayy/)
 [<img align="left" alt="ibilalkayy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ibilalkayy)
 
