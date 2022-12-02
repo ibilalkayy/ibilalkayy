@@ -25,7 +25,7 @@ Here are some points about myself:
 
 ### Languages and Tools:
 
-[<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />]
+[<img align="left" alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />]
 [<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />]
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />]
@@ -40,16 +40,17 @@ Here are some points about myself:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Backup and Monitoring Software](https://www.youtube.com/watch?v=CZcYtLh-ZUw&t=1s)
 - [Banking Management Software](https://www.youtube.com/watch?v=xFWc21VSHps&list=PLptbpfKzsc3DnWWGdspRR36FQw3Do_UOC)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCBLTfRg0Rgm4FtXkvql7DRQ)
 
-
 ### 📺 Latest Hashnode Blogs
 
 <!-- HASHNODE:START -->
+
 - [Create a Golang Web App without using any Framework](https://ibilalkayy.hashnode.dev/create-a-golang-web-app-without-using-any-framework)
 - [Define Cobra library and make an application from it](https://ibilalkayy.hashnode.dev/define-cobra-library-and-make-an-application-from-it)
 <!-- HASHNODE:END -->
