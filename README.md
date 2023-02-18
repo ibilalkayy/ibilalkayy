@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif">
 
-🔭 I’m currently working on **[Proctl](https://github.com/ibilalkayy/proctl) Project** & [Book Loop](https://github.com/Book-Loop/).
+🔭 I’m currently working on **[Proctl](https://github.com/ibilalkayy/proctl) Project** & **[Book Loop](https://github.com/Book-Loop/)**.
 
 👯 I’m looking to collaborate on **[Kubernetes](https://github.com/kubernetes/)** & **[Linux for Pirates](https://github.com/loftwah/linux-for-pirates)**.
 
