@@ -75,7 +75,7 @@
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> **Github Stats:**
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibilalkayy&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibilalkayy&show_icons=true&theme=dark">
 </div>
 
 ## <img src="https://media.giphy.com/media/LEcRaYyUptIxG/giphy.gif" width="40"> **Latest YouTube videos:**
