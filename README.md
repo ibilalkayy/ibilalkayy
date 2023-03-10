@@ -9,7 +9,7 @@
 
 🔭 I’m currently working on **[Proctl](https://github.com/ibilalkayy/proctl) Project** & **[Book Loop](https://github.com/Book-Loop/)**.
 
-👯 I’m looking to collaborate on **[Linux for Pirates](https://github.com/loftwah/linux-for-pirates)**.
+👯 I’m contributing to **[Linux for Pirates](https://github.com/loftwah/linux-for-pirates)** & [Tailwarden](https://github.com/tailwarden).
 
 📝 I regularly write articles on **[Hashnode](https://hashnode.com/@ibilalkayy)**.
 
