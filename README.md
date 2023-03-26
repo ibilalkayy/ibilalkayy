@@ -109,6 +109,6 @@
 
 ➡️ [more blogs...](https://ibilalkayy.hashnode.dev/)
 
-<p>All my social links and courses in one place... https://linkfree.eddiehub.io/ibilalkayy</p>
+<p>All my social links and courses in one place... https://linkfree.io/ibilalkayy</p>
 
 ---
