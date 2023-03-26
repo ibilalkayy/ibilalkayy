@@ -86,10 +86,10 @@
   <td><a href="https://www.youtube.com/watch?v=e0gfLJVz9rY&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=59"><img width="140px" src="https://user-images.githubusercontent.com/64713734/216832337-2e0fc712-752e-44c1-917e-fa2905446362.png"></a></td>
   <td><a href="https://www.youtube.com/watch?v=e0gfLJVz9rY&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=59">Intro to 60 Days of DevOps Challenge</a> (Dec 1, 2022)<br/></td></tr>
 <tr>
-  <td><a href="https://www.youtube.com/watch?v=Y91UIRwjd8w"><img width="140px" src="https://user-images.githubusercontent.com/64713734/216832802-f831cee1-0f54-4c97-8454-348e337aa24e.png"></a></td>
+  <td><a href="https://www.youtube.com/watch?v=Y91UIRwjd8w"><img width="140px" src="https://user-images.githubusercontent.com/64713734/227792130-5a9de101-2ef6-45f5-a46f-3fa7ab8ac455.png"></a></td>
   <td><a href="https://www.youtube.com/watch?v=Y91UIRwjd8w">Contribution Guide to Kubernetes | How I Sent My First PR to Kubernetes</a> (Feb 13, 2023)<br/></td></tr>
 <tr>
-  <td><a href="https://www.youtube.com/watch?v=LT6yvlPyNm8"><img width="140px" src="https://user-images.githubusercontent.com/64713734/216832871-1cc73c7f-ba92-41b6-a38a-ab4df101b368.png"></a></td>
+  <td><a href="https://www.youtube.com/watch?v=LT6yvlPyNm8"><img width="140px" src="https://user-images.githubusercontent.com/64713734/227791956-a597f4fe-c9ab-4a07-91f3-0b847fe55459.jpg"></a></td>
   <td><a href="https://www.youtube.com/watch?v=LT6yvlPyNm8">Scaling Database Deployment on Kubernetes with Kelsey Hightower</a> (March 21, 2023)<br/></td></tr>
 <tr>
   <td><a href="https://www.youtube.com/watch?v=m2SxCdGhd5Y"><img width="140px" src="https://user-images.githubusercontent.com/64713734/216832989-4b2752a2-83fd-45c6-9f41-d7f9f5666aa7.png"></a></td>
