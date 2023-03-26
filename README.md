@@ -86,11 +86,11 @@
   <td><a href="https://www.youtube.com/watch?v=e0gfLJVz9rY&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=59"><img width="140px" src="https://user-images.githubusercontent.com/64713734/216832337-2e0fc712-752e-44c1-917e-fa2905446362.png"></a></td>
   <td><a href="https://www.youtube.com/watch?v=e0gfLJVz9rY&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=59">Intro to 60 Days of DevOps Challenge</a> (Dec 1, 2022)<br/></td></tr>
 <tr>
-  <td><a href="https://www.youtube.com/watch?v=pTxyK2ygQj8"><img width="140px" src="https://user-images.githubusercontent.com/64713734/216832802-f831cee1-0f54-4c97-8454-348e337aa24e.png"></a></td>
-  <td><a href="https://www.youtube.com/watch?v=pTxyK2ygQj8">My 2022 Journey | How One Year Changed My Life?</a> (Dec 19, 2022)<br/></td></tr>
+  <td><a href="https://www.youtube.com/watch?v=Y91UIRwjd8w"><img width="140px" src="https://user-images.githubusercontent.com/64713734/216832802-f831cee1-0f54-4c97-8454-348e337aa24e.png"></a></td>
+  <td><a href="https://www.youtube.com/watch?v=Y91UIRwjd8w">Contribution Guide to Kubernetes | How I Sent My First PR to Kubernetes</a> (Feb 13, 2023)<br/></td></tr>
 <tr>
-  <td><a href="https://www.youtube.com/watch?v=xc4CEztYA80"><img width="140px" src="https://user-images.githubusercontent.com/64713734/216832871-1cc73c7f-ba92-41b6-a38a-ab4df101b368.png"></a></td>
-  <td><a href="https://www.youtube.com/watch?v=xc4CEztYA80">Informative Session with Michael Cade </a> (Jan 10, 2023)<br/></td></tr>
+  <td><a href="https://www.youtube.com/watch?v=LT6yvlPyNm8"><img width="140px" src="https://user-images.githubusercontent.com/64713734/216832871-1cc73c7f-ba92-41b6-a38a-ab4df101b368.png"></a></td>
+  <td><a href="https://www.youtube.com/watch?v=LT6yvlPyNm8">Scaling Database Deployment on Kubernetes with Kelsey Hightower</a> (March 21, 2023)<br/></td></tr>
 <tr>
   <td><a href="https://www.youtube.com/watch?v=m2SxCdGhd5Y"><img width="140px" src="https://user-images.githubusercontent.com/64713734/216832989-4b2752a2-83fd-45c6-9f41-d7f9f5666aa7.png"></a></td>
   <td><a href="https://www.youtube.com/watch?v=m2SxCdGhd5Y">Informative Session with Legends</a> (Feb 5, 2023)<br/></td></tr>
