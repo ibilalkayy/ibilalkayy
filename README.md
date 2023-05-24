@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif">
 
-🔭 I’m currently working on **[Proctl](https://github.com/ibilalkayy/proctl) Project** & **[Bloop](https://github.com/Bloopdotgg)**.
+🔭 I’m currently working on **[Proctl](https://github.com/ibilalkayy/proctl) Project** & **[Bloop](https://github.com/blooporg)**.
 
 👯 I’m contributing to **[Linux for Pirates](https://github.com/loftwah/linux-for-pirates)**, **[Kubernetes](https://github.com/kubernetes-sigs/gateway-api)** & **[Canonical](https://canonical.com/)**.
 
