@@ -100,6 +100,7 @@
 ## <img src="https://media.giphy.com/media/UpJNkPyNsBPw0lXUet/giphy.gif" width="40"> **Latest Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing the Power of Community: My Journey to Becoming an AWS Community Builder](https://ibilalkayy.hashnode.dev/unleashing-the-power-of-community-my-journey-to-becoming-an-aws-community-builder)
 - [How to create a LinkFree account? [Part 1]](https://ibilalkayy.hashnode.dev/how-to-create-a-linkfree-account-part-1)
 - [Hello world of Terraform](https://ibilalkayy.hashnode.dev/hello-world-of-terraform)
 - [My first experience in KubeCon](https://ibilalkayy.hashnode.dev/my-first-experience-in-kubecon)
