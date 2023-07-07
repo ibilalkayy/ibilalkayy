@@ -1,21 +1,21 @@
 ![let's connect](https://user-images.githubusercontent.com/64713734/188162433-f495324a-4f90-412d-b94b-514dda33cff9.png)
 
 <h1 align="center">Hello World, I'm <a href="https://ibilalkayy.github.io/digital-resume/"> ibilalkayy </a> 👋 </h1>
-<h3 align="center">Bloop Founder, DevOps Guy, & a Go Developer | AWS Community Builder, Open Source Contributor at Canonical, and a Content Creator on YouTube & Hashnode.</h3>
+<h3 align="center">DevOps Engineer, & a Go Developer | AWS Community Builder, Open Source Contributor at Canonical, and a Content Creator on YouTube & Hashnode.</h3>
 
 ## <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="40"> **About Me:**
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif">
 
-🔭 I’m currently working on **[Proctl](https://github.com/ibilalkayy/proctl) Project** & **[Bloop](https://github.com/blooporg)**.
+🔭 I’m currently working on **[Proctl](https://github.com/ibilalkayy/proctl) Project**
 
-👯 I’m contributing to **[Linux for Pirates](https://github.com/loftwah/linux-for-pirates)**, **[Kubernetes](https://github.com/kubernetes-sigs/gateway-api)** & **[Canonical](https://canonical.com/)**.
+👯 I’m contributing to **[Linux for Pirates](https://github.com/loftwah/linux-for-pirates)**, **[Kubernetes](https://github.com/kubernetes-sigs/gateway-api)** & **[Canonical](https://github.com/canonical/lxd)**.
 
 📝 I regularly write articles on **[Hashnode](https://hashnode.com/@ibilalkayy)**.
 
 🎥 I regularly upload videos on **[YouTube](https://www.youtube.com/@ibilalkayy)**.
 
-📄 Know about my experiences from my **[Resume](https://ibilalkayy.github.io/digital-resume/)**.
+📄 Know about my experiences from my **[Resume](https://ibilalkayy.github.io/digital-resume/assets/Bilal-Khan.pdf)**.
 
 💬 Ask me about **Golang, Open source, & Content creation**.
 
