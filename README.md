@@ -1,7 +1,7 @@
 ![let's connect](https://user-images.githubusercontent.com/64713734/188162433-f495324a-4f90-412d-b94b-514dda33cff9.png)
 
 <h1 align="center">Hello World, I'm <a href="https://ibilalkayy.github.io/digital-resume/"> ibilalkayy </a> 👋 </h1>
-<h3 align="center">DevOps Engineer, & a Go Developer | AWS Community Builder, Open Source Contributor at Canonical, and a Content Creator on YouTube & Hashnode</h3>
+<h3 align="center">DevOps Engineer, & a Go Developer | AWS Community Builder, Open Source Contributor at Canonical, and a Content Creator on YouTube & Hashnode.</h3>
 
 ## <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="40"> **About Me:**
 
