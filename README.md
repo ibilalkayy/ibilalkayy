@@ -19,4 +19,4 @@ I am a:
 - [proctl](https://github.com/ibilalkayy/proctl), a project management application in CLI.
 - [eCommerce website](https://github.com/ibilalkayy/eCommerce-website).
 
-All my social links and courses are in one place... https://linkfree.io/ibilalkayy
+All my social links are in one place... https://linkfree.io/ibilalkayy
