@@ -25,6 +25,6 @@ I will keep working on my personal projects and contributing to the open source.
 
 You can [buy me a coffee](https://www.buymeacoffee.com/ibilalkayy) and support my work.
 
-- Fun fact: I like to watch more videos on YouTube.
+- ⚡ Fun fact: I like to watch more videos on YouTube.
 
 All my social links are in one place... https://linkfree.io/ibilalkayy
