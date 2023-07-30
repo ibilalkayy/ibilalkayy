@@ -16,7 +16,7 @@ I am a:
 #### Projects
 
 - Building [Bloop](https://github.com/blooporg) in public.
-- [proctl](https://github.com/ibilalkayy/proctl), a project management application in CLI.
+- A project management application in CLI called [proctl](https://github.com/ibilalkayy/proctl).
 - A software that automatically [takes the backup](https://github.com/ibilalkayy/Automatic-Backup-and-Monitoring-Software) from your computer.
 
 #### Buy Me A Coffee
