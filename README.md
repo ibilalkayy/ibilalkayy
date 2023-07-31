@@ -1,6 +1,6 @@
 #### Bilal Khan - [ibilalkayy](https://ibilalkayy.github.io/digital-resume/)
 
-I am a(n):
+I am a:
 
 - Open Source Contributor: [LXD (Canonical)](https://github.com/canonical/lxd) with over 4k stars, [Linux for Pirates](https://github.com/loftwah/linux-for-pirates) with 100+ stars.
 - Coder: [YouTube channel](https://www.youtube.com/@ibilalkayy) which has 300+ videos, 20k+ viewers and 1k+ subscribers.
