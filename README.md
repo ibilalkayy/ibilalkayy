@@ -1,4 +1,4 @@
-#### Bilal Khan - [ibilalkayy](ibilalkayy.com)
+#### Bilal Khan - [ibilalkayy](https://ibilalkayy.com)
 
 I am a:
 
