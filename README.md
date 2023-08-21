@@ -1,4 +1,4 @@
-#### Bilal Khan - [ibilalkayy](https://ibilalkayy.github.io/digital-resume/)
+#### Bilal Khan - [ibilalkayy](ibilalkayy.com)
 
 I am a:
 
