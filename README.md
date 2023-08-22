@@ -9,7 +9,7 @@ I am a:
 
 #### Contact Information
 
-- Email: `bilalkhanrecovered@gmail.com`
+- Email: `me@ibilalkayy.com`
 - Twitter: [@ibilalkayy](https://twitter.com/ibilalkayy)
 - LinkedIn: [@ibilalkayy](https://www.linkedin.com/in/ibilalkayy/)
 
