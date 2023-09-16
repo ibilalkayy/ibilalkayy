@@ -2,7 +2,7 @@
 
 I am a:
 
-- Open Source Contributor:
+- Contributor To:
   - [Kubernetes](https://github.com/kubernetes/kubernetes) with 102k stars.
   - [LXD (Canonical)](https://github.com/canonical/lxd) with over 4k stars.
   - [Linux for Pirates](https://github.com/loftwah/linux-for-pirates) with 100+ stars.
