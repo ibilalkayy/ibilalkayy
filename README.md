@@ -4,7 +4,7 @@ I am a:
 
 - Contributor To:
   - [Kubernetes](https://github.com/kubernetes/kubernetes) with 102k stars.
-  - [LXD (Canonical)](https://github.com/canonical/lxd) with over 4k stars.
+  - [LXD (Canonical)](https://github.com/canonical/lxd) with over 4k stars
   - [Linux for Pirates](https://github.com/loftwah/linux-for-pirates) with 100+ stars.
 - Coder: [YouTube channel](https://www.youtube.com/@ibilalkayy) which has 300+ videos, 26k+ viewers and 1k+ subscribers.
 - Writer: [Hashnode](https://ibilalkayy.hashnode.dev/) which has 50+ blogs and 10k+ viewers.
