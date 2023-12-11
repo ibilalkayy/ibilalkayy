@@ -3,7 +3,7 @@
 I am a:
 
 - Contributor: [Sourcegraph](https://github.com/sourcegraph/sourcegraph) which has 9.2k stars. Here are my [contributions](https://github.com/ibilalkayy/PR-Journey/tree/main/Projects/Sourcegraph).
-- Coder: [YouTube channel](https://www.youtube.com/@ibilalkayy) which has 300+ videos, 26k+ viewers and 1k+ subscribers.
+- Coder: [YouTube channel](https://www.youtube.com/@ibilalkayy) which has 300+ videos, 26k+ viewers and 1k+ subscribers
 - Writer: [Hashnode](https://ibilalkayy.hashnode.dev/) which has 50+ blogs and 10k+ viewers.
 - Community Builder: [AWS community](https://aws.amazon.com/developer/community/community-builders/) which has more than 100k members.
 
