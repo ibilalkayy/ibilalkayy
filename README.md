@@ -5,7 +5,7 @@ I am a:
 - Contributor: [Weaviate](https://github.com/weaviate) which has 332 followers. Here are my [contributions](https://github.com/ibilalkayy/PR-Journey/tree/main/Projects/Weaviate).
 - Coder: [YouTube channel](https://www.youtube.com/@coderoamer) which has 300+ videos, 28k+ viewers and 1k+ subscribers.
 - Writer: [Hashnode](https://ibilalkayy.hashnode.dev/) which has 50+ blogs and 10k+ viewers.
-- Community Builder: [AWS community](https://aws.amazon.com/developer/community/community-builders/) which has more than 100k members
+- Community Builder: [AWS community](https://aws.amazon.com/developer/community/community-builders/) which has more than 100k members.
 
 #### Contact Information
 
