@@ -6,7 +6,7 @@ I am a:
 - Coder: [YouTube channel](https://www.youtube.com/@coderoamer) which has 300+ videos, 28k+ viewers and 1k+ subscribers.
 - Writer: [Hashnode](https://ibilalkayy.hashnode.dev/) which has 50+ blogs and 10k+ viewers.
 - Freelancer: On [Upwork](https://www.upwork.com/freelancers/~018c7195997cd6f925), providing Backend and DevOps services.
-- Community Builder: [AWS community](https://aws.amazon.com/developer/community/community-builders/) which has more than 100k members
+- Community Builder: [AWS community](https://aws.amazon.com/developer/community/community-builders/) which has more than 100k members.
 
 #### Contact Information
 
