@@ -15,7 +15,6 @@ I am a:
 
 #### Projects
 
-- A command line application for the Weaviate client called [wecli](https://github.com/ibilalkayy/wecli).
 - A project management application in CLI called [proctl](https://github.com/ibilalkayy/proctl).
 - A software automatically [takes the backup](https://github.com/ibilalkayy/Automatic-Backup-and-Monitoring-Software) from your computer.
 
