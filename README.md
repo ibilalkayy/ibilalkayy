@@ -3,8 +3,7 @@
 I am a:
 
 - Coder: [YouTube channel](https://www.youtube.com/@coderoamer) which has 300+ videos, 30k+ viewers and 1k+ subscribers.
-- Writer: [Hashnode](https://ibilalkayy.hashnode.dev/) which has 50+ blogs and 10k+ viewers
-- Freelancer: On [Upwork](https://www.upwork.com/freelancers/~018c7195997cd6f925), providing Backend and DevOps services.
+- Writer: [Hashnode](https://ibilalkayy.hashnode.dev/) which has 50+ blogs and 10k+ viewers.
 - Community Builder: [AWS community](https://aws.amazon.com/developer/community/community-builders/) which has more than 100k members.
 
 #### Contact Information
@@ -15,6 +14,7 @@ I am a:
 
 #### Projects
 
+- A budget planner application in CLI called [flow](https://github.com/ibilalkayy/flow).
 - A project management application in CLI called [proctl](https://github.com/ibilalkayy/proctl).
 - A software automatically [takes the backup](https://github.com/ibilalkayy/Automatic-Backup-and-Monitoring-Software) from your computer.
 
