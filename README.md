@@ -6,17 +6,17 @@ I am a:
 - Writer: [Hashnode](https://ibilalkayy.hashnode.dev/) which has 50+ blogs and 10k+ viewers.
 - Community Builder: [AWS community](https://aws.amazon.com/developer/community/community-builders/) which has more than 100k members.
 
-#### Contact Information
-
-- Email: `me@ibilalkayy.com`
-- Twitter: [@ibilalkayy](https://x.com/ibilalkayy)
-- LinkedIn: [@ibilalkayy](https://www.linkedin.com/in/ibilalkayy/)
-
 #### Projects
 
 - A budget planner application in CLI called [flow](https://github.com/ibilalkayy/flow).
 - A project management application in CLI called [proctl](https://github.com/ibilalkayy/proctl).
 - A software automatically [takes the backup](https://github.com/ibilalkayy/Automatic-Backup-and-Monitoring-Software) from your computer.
+
+#### Contact Information
+
+- Email: `me@ibilalkayy.com`
+- Twitter: [@ibilalkayy](https://x.com/ibilalkayy)
+- LinkedIn: [@ibilalkayy](https://www.linkedin.com/in/ibilalkayy/)
 
 #### Buy Me A Coffee
 
