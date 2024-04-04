@@ -3,7 +3,7 @@
 I am a:
 
 - Coder: [YouTube channel](https://www.youtube.com/@coderoamer) which has 300+ videos, 30k+ viewers and 1k+ subscribers.
-- Writer: [Hashnode](https://ibilalkayy.hashnode.dev/) which has 50+ blogs and 10k+ viewers
+- Writer: [Hashnode](https://ibilalkayy.hashnode.dev/) which has 50+ blogs and 10k+ viewers.
 - Community Builder: [AWS community](https://aws.amazon.com/developer/community/community-builders/) which has more than 100k members.
 
 #### Projects
