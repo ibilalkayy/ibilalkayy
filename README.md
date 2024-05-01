@@ -2,8 +2,8 @@
 
 I am a:
 
-- Coder: [YouTube channel](https://www.youtube.com/@coderoamer) which has 300+ videos, 37k+ viewers and 1k+ subscribers.
-- Writer: [Hashnode](https://ibilalkayy.hashnode.dev/) which has 50+ blogs and 10k+ viewers.
+- Coder: [YouTube channel](https://www.youtube.com/@coderoamer) which has 300+ videos, 37k+ viewers and 1600+ subscribers.
+- Writer: [Hashnode](https://ibilalkayy.hashnode.dev/) which has 150+ followers, 50+ blogs and 10k+ viewers.
 - Community Builder: [AWS community](https://aws.amazon.com/developer/community/community-builders/) which has more than 100k members.
 
 #### Projects
