@@ -2,13 +2,13 @@
 
 I am a:
 
-- Coder: [YouTube channel](https://www.youtube.com/@coderoamer) which has 300+ videos, 37k+ viewers and 1600+ subscribers.
+- Coder: [YouTube channel](https://www.youtube.com/@coderoamer) which has 320+ videos, 37k+ viewers and 1600+ subscribers.
 - Writer: [Hashnode](https://ibilalkayy.hashnode.dev/) which has 150+ followers, 50+ blogs and 10k+ viewers.
 - Community Builder: [AWS community](https://aws.amazon.com/developer/community/community-builders/) which has more than 100k members.
 
 #### Projects
 
-- A budget planner application in CLI called [flow](https://github.com/ibilalkayy/flow).
+- A budget planning application in CLI called [flow](https://github.com/ibilalkayy/flow).
 - A project management application in CLI called [proctl](https://github.com/ibilalkayy/proctl).
 - A software automatically [takes the backup](https://github.com/ibilalkayy/Automatic-Backup-and-Monitoring-Software) from your computer.
 
