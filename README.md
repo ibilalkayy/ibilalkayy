@@ -26,4 +26,4 @@ You can [buy me a coffee](https://www.buymeacoffee.com/ibilalkayy) and support m
 
 - ⚡ Fun fact: I like to watch more videos on YouTube.
 
-All my social links are in one place... https://biodrop.io/ibilalkayy
+All my social links are in one place... https://linktr.ee/ibilalkayy
