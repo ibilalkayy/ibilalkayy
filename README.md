@@ -4,7 +4,7 @@ I am a:
 
 - Founder: [Roamer](https://roamer.cafe) focuses on the projects of my interest and keeps monetization in mind.
 - Coder: [YouTube channel](https://www.youtube.com/@coderoamer) which has 350+ videos, 54k+ viewers and 2000+ subscribers.
-- Writer: [Hashnode](https://ibilalkayy.hashnode.dev/) which has 150+ followers, 50+ blogs and 12k+ viewers.
+- Writer: [Hashnode](https://ibilalkayy.hashnode.dev/) which has 150+ followers, 50+ blogs and 13k+ viewers.
 - Community Builder: [AWS community](https://aws.amazon.com/developer/community/community-builders/) which has more than 100k members.
 
 #### Projects
