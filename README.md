@@ -2,7 +2,7 @@
 
 I am a:
 
-- Open Source Contributor: [Trace Machina - Nativelink](https://nativelink.com) is a build cache & remote execution system that accelerates software compilation and testing.
+- OSS Contributor: [Trace Machina - Nativelink](https://nativelink.com) is a build cache & remote execution system that accelerates software compilation and testing.
 - Maintainer: [Roamer](https://roamer.cafe) focuses on the projects of my interest and keeps monetization in mind.
 - Creator: [YouTube channel](https://www.youtube.com/@coderoamer) which has 350+ videos, 54k+ viewers and 2000+ subscribers.
 - Writer: [Hashnode](https://ibilalkayy.hashnode.dev/) which has 150+ followers, 50+ blogs and 12k+ viewers.
