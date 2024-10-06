@@ -20,7 +20,7 @@ I am a:
 - Twitter: [@ibilalkayy](https://x.com/ibilalkayy)
 - LinkedIn: [@ibilalkayy](https://www.linkedin.com/in/ibilalkayy/)
 
-#### Give Donation
+#### Support Me
 
 I will keep working on my projects and contributing to the open source. To do these things, I need your support.
 
