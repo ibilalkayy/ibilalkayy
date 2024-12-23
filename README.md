@@ -1,5 +1,3 @@
-![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner (2)](https://github.com/user-attachments/assets/8240fe96-97ee-4b38-8433-c23f8588f26b)
-
 #### Bilal Khan - [ibilalkayy](https://ibilalkayy.com)
 
 I am a:
