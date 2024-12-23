@@ -19,6 +19,7 @@ I am a:
 - Email: `me@ibilalkayy.com`
 - Twitter: [@ibilalkayy](https://x.com/ibilalkayy)
 - LinkedIn: [@ibilalkayy](https://www.linkedin.com/in/ibilalkayy/)
+- Subscribe to Newsletter: [ibilalkayy](https://ibilalkayy.beehiiv.com/)
 
 #### Support Me
 
