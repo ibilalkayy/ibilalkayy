@@ -34,16 +34,12 @@ Books that I love the most and read multiple times.
 
 ---
 
-#### Contact Information
+#### Contact & Support
 
 - Email: `me@ibilalkayy.com`
 - Twitter: [@ibilalkayy](https://x.com/ibilalkayy)
 - LinkedIn: [@ibilalkayy](https://www.linkedin.com/in/ibilalkayy/)
 - Subscribe to Newsletter: [ibilalkayy](https://ibilalkayy.beehiiv.com/)
-
----
-
-#### Support Me
 
 If you found work amazing, you can [buy me a coffee](https://buymeacoffee.com/ibilalkayy).
 
@@ -51,7 +47,7 @@ All my social links are in one place... https://linktr.ee/ibilalkayy
 
 ---
 
-#### Videos
+#### Fun Fact
 
 I love watching tech videos.
 
