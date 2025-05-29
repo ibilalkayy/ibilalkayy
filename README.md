@@ -16,9 +16,9 @@ I prefer technical books over tutorial videos.
 
 Some things that I am really proud of:
 
-- A budget planning application in CLI called [move](https://github.com/ibilalkayy/move).
-- Search and replace text across different files and folders using the CLI tool called [move](https://github.com/ibilalkayy/move).
-- Automatically takes the [backup](https://github.com/ibilalkayy/Automatic-Backup-and-Monitoring-Software) from your computer.
+- [Budget planning application](https://github.com/ibilalkayy/move).
+- [Find and Replace text](https://github.com/ibilalkayy/fara).
+- [Automatically takes a backup](https://github.com/ibilalkayy/Automatic-Backup-and-Monitoring-Software).
 
 ---
 
