@@ -3,14 +3,13 @@
 I am a:
 
 - Creator: [Code Roamer](https://www.youtube.com/@coderoamer) YouTube channel which has 350+ videos, 74k+ viewers and 3000+ subscribers.
-- Writer: [Hashnode](https://ibilalkayy.hashnode.dev/) which has 150+ followers, 90+ blogs and 12k+ viewers.
 - Community Builder: [AWS community](https://aws.amazon.com/developer/community/community-builders/) which has more than 100k members.
 
 #### Projects
 
-- A budget planning application in CLI called [flow](https://github.com/ibilalkayy/flow).
-- A project management application in CLI called [proctl](https://github.com/ibilalkayy/proctl).
-- A software automatically [takes the backup](https://github.com/ibilalkayy/Automatic-Backup-and-Monitoring-Software) from your computer.
+- A budget planning application in CLI called [move](https://github.com/ibilalkayy/move).
+- Search and replace text across different files and folders using the CLI tool called [move](https://github.com/ibilalkayy/move).
+- Automatically takes the [backup](https://github.com/ibilalkayy/Automatic-Backup-and-Monitoring-Software) from your computer.
 
 #### Contact Information
 
