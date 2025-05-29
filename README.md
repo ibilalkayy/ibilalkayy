@@ -6,8 +6,6 @@ My name is Bilal Khan - aka [ibilalkayy](https://ibilalkayy.com).
 - Make tech videos on my [YouTube channel](https://www.youtube.com/@coderoamer).
 - I am also an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/).
 
----
-
 I understand things by creating flashcards or practicing a lot.
 
 I prefer technical books over tutorial videos.
