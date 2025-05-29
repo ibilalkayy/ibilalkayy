@@ -12,7 +12,7 @@ I prefer technical books over tutorial videos.
 
 ---
 
-#### Projects
+### Projects
 
 Some things that I am really proud of:
 
@@ -22,7 +22,7 @@ Some things that I am really proud of:
 
 ---
 
-#### Books
+### Books
 
 Books that I love the most and read multiple times.
 
@@ -34,7 +34,7 @@ Books that I love the most and read multiple times.
 
 ---
 
-#### Contact & Support
+### Contact & Support
 
 - Email: `me@ibilalkayy.com`
 - Twitter: [@ibilalkayy](https://x.com/ibilalkayy)
@@ -47,7 +47,7 @@ All my social links are in one place... https://linktr.ee/ibilalkayy
 
 ---
 
-#### Fun Fact
+### Fun Fact
 
 I love watching tech videos.
 
