@@ -43,8 +43,6 @@ Books that I love the most and read multiple times.
 
 If you found work amazing, you can [buy me a coffee](https://buymeacoffee.com/ibilalkayy).
 
-All my social links are in one place... https://linktr.ee/ibilalkayy
-
 ---
 
 ### Fun Fact
