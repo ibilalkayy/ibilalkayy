@@ -37,7 +37,7 @@ Books that I love the most and read multiple times.
 ### Contact & Support
 
 - Email: `me@ibilalkayy.com`
-- Twitter: [@ibilalkayy](https://x.com/ibilalkayy)
+- Twitter: [@ibilalkayy_](https://x.com/ibilalkayy_)
 - LinkedIn: [@ibilalkayy](https://www.linkedin.com/in/ibilalkayy/)
 - Subscribe to Newsletter: [ibilalkayy](https://ibilalkayy.beehiiv.com/)
 
