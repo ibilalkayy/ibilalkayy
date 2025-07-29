@@ -1,12 +1,12 @@
 # Hey friends 👋
 
-My name is Bilal Khan - aka [ibilalkayy](https://ibilalkayy.com).
+My name is Bilal Khan - aka [ibilalkayy](https://bio.link/ibilalkayy).
 
 - Passionate about Rust, Blockchain, Web, and CLI Applications.
 - Make tech videos on my [YouTube channel](https://www.youtube.com/@coderoamer).
 - I am also an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/).
 
-I understand things by creating flashcards or practicing a lot.
+I understand things by practicing a lot.
 
 I prefer technical books over tutorial videos.
 
@@ -18,6 +18,7 @@ Some things that I am really proud of:
 
 - [Budget planning application](https://github.com/ibilalkayy/move)
 - [Find and Replace text](https://github.com/ibilalkayy/fara)
+- [A collection of Unix CLI commands](https://github.com/ibilalkayy/younix)
 - [Automatically takes a backup](https://github.com/ibilalkayy/Automatic-Backup-and-Monitoring-Software)
 
 ---
@@ -37,7 +38,7 @@ Books that I love the most and read multiple times.
 ### Contact & Support
 
 - Email: `me@ibilalkayy.com`
-- Twitter: [@ibilalkayy_](https://x.com/ibilalkayy_)
+- Twitter: [@ibilalkayyy](https://x.com/ibilalkayyy)
 - LinkedIn: [@ibilalkayy](https://www.linkedin.com/in/ibilalkayy/)
 - Subscribe to Newsletter: [ibilalkayy](https://ibilalkayy.beehiiv.com/)
 
