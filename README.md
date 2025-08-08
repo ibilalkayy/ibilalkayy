@@ -2,13 +2,12 @@
 
 My name is Bilal Khan - aka [ibilalkayy](https://bio.link/ibilalkayy).
 
-- Passionate about Rust, Blockchain, Web, and CLI Applications.
-- Make tech videos on my [YouTube channel](https://www.youtube.com/@coderoamer).
-- I am also an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/).
+- Passionate about only Rust.
+- Make Rust videos on my [YouTube channel](https://www.youtube.com/@coderoamer).
 
 I understand things by practicing a lot.
 
-I prefer technical books over tutorial videos.
+I prefer technical books and documentation over tutorial videos.
 
 ---
 
