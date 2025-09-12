@@ -15,10 +15,10 @@ I prefer technical books and documentation over tutorial videos.
 
 Some things that I am really proud of:
 
-- [Budget planning application](https://github.com/ibilalkayy/move)
-- [Find and Replace text](https://github.com/ibilalkayy/fara)
-- [A collection of Unix CLI commands](https://github.com/ibilalkayy/younix)
-- [Automatically takes a backup](https://github.com/ibilalkayy/Automatic-Backup-and-Monitoring-Software)
+- [Younix](https://github.com/ibilalkayy/younix) - Unix Command-Line Tools in Rust
+- [Move](https://github.com/ibilalkayy/move) - A budget planning application that integrates with Ethereum
+- [Fara](https://github.com/ibilalkayy/fara) - Find and replace text application that finds the data from a file
+- [OnlyChat](https://github.com/ibilalkayy/onlychat) - A CLI app that offers seamless real-time communication with support for rooms
 
 ---
 
