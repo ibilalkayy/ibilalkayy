@@ -1,6 +1,6 @@
 # Hey friends 👋
 
-My name is Bilal Khan - aka [ibilalkayy](https://bio.link/ibilalkayy).
+My name is Bilal Khan - aka [ibilalkayy](https://ibilalkayy.com).
 
 - Passionate about only Rust.
 - Make Rust videos on my [YouTube channel](https://www.youtube.com/@coderoamer).
@@ -37,7 +37,7 @@ Books that I love the most and read multiple times.
 ### Contact & Support
 
 - Email: `me@ibilalkayy.com`
-- Bio: [ibilalkayy](https://bio.link/ibilalkayy)
+- Bio: [ibilalkayy](https://ibilalkayy.com)
 - Twitter: [@ibilalkayyy](https://x.com/ibilalkayyy)
 - LinkedIn: [@ibilalkayy](https://www.linkedin.com/in/ibilalkayy/)
 
