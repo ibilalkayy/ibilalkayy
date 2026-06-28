@@ -47,5 +47,5 @@ If you found my work amazing, you can [buy me a coffee](https://buymeacoffee.com
 
 ### Fun Fact
 
-I love watching tech videos.
+I do daily work in Focusmate sessions
 
